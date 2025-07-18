@@ -1,0 +1,91 @@
+{
+    "fixedWidthSettings": {
+        "columns": [
+            {
+                "name": "GeneSymbol",
+                "type": "String",
+                "width": 7
+            },
+            {
+                "name": "Chromosome",
+                "type": "String",
+                "width": 9
+            },
+            {
+                "name": "UniProtID",
+                "type": "String",
+                "width": 7
+            },
+            {
+                "name": "UniProtName",
+                "type": "String",
+                "width": 9
+            },
+            {
+                "name": "OMIM_ID_or_Empty",
+                "type": "String",
+                "width": 6
+            },
+            {
+                "name": "Spacer1",
+                "type": "String",
+                "width": 5
+            },
+            {
+                "name": "DescriptionPart1",
+                "type": "String",
+                "width": 11
+            },
+            {
+                "name": "DescriptionPart2",
+                "type": "String",
+                "width": 8
+            },
+            {
+                "name": "DescriptionPart3",
+                "type": "String",
+                "width": 13
+            },
+            {
+                "name": "Spacer2",
+                "type": "String",
+                "width": 1
+            },
+            {
+                "name": "DescriptionPart4",
+                "type": "String",
+                "width": 16
+            },
+            {
+                "name": "Spacer3",
+                "type": "String",
+                "width": 1
+            },
+            {
+                "name": "Spacer4",
+                "type": "String",
+                "width": 1
+            },
+            {
+                "name": "Spacer5",
+                "type": "String",
+                "width": 1
+            },
+            {
+                "name": "Tag1",
+                "type": "String",
+                "width": 3
+            },
+            {
+                "name": "Spacer6",
+                "type": "String",
+                "width": 1
+            },
+            {
+                "name": "Tag2",
+                "type": "String",
+                "width": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+  "typeProperties": {
+    "columnDelimiter": "",
+    "rowDelimiter": "\n",
+    "fixedWidthSettings": {
+      "columns": [
+        {
+          "name": "Gene",
+          "start": 1,
+          "width": 7,
+          "type": "String"
+        },
+        {
+          "name": "Chromosome",
+          "start": 8,
+          "width": 9,
+          "type": "Int32"
+        },
+        {
+          "name": "UniProtID",
+          "start": 17,
+          "width": 7,
+          "type": "String"
+        },
+        {
+          "name": "UniProt_Name",
+          "start": 24,
+          "width": 9,
+          "type": "Int32"
+        },
+        {
+          "name": "OMIM_ID",
+          "start": 33,
+          "width": 6,
+          "type": "String"
+        },
+        {
+          "name": "Spacer",
+          "start": 39,
+          "width": 5,
+          "type": "Int32"
+        },
+        {
+          "name": "Description",
+          "start": 44,
+          "width": 11,
+          "type": "String"
+        },
+        {
+          "name": "col_8",
+          "start": 55,
+          "width": 8,
+          "type": "Int32"
+        },
+        {
+          "name": "col_9",
+          "start": 63,
+          "width": 13,
+          "type": "String"
+        },
+        {
+          "name": "col_10",
+          "start": 76,
+          "width": 1,
+          "type": "String"
+        },
+        {
+          "name": "col_11",
+          "start": 77,
+          "width": 16,
+          "type": "String"
+        },
+        {
+          "name": "col_12",
+          "start": 93,
+          "width": 1,
+          "type": "String"
+        },
+        {
+          "name": "col_13",
+          "start": 94,
+          "width": 1,
+          "type": "Int32"
+        },
+        {
+          "name": "col_14",
+          "start": 95,
+          "width": 1,
+          "type": "Int32"
+        },
+        {
+          "name": "col_15",
+          "start": 96,
+          "width": 3,
+          "type": "String"
+        },
+        {
+          "name": "col_16",
+          "start": 99,
+          "width": 1,
+          "type": "String"
+        },
+        {
+          "name": "description",
+          "start": 100,
+          "width": 0,
+          "type": "String"
+        }
+      ]
+    }
+  }
+}
